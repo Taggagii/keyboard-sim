@@ -1,5 +1,6 @@
 #!/bin/bash
 
 echo "testing"
+cd keyboard-sim
 pwd
 
