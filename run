@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "testing"
 cd keyboard-sim
 python3 main.py
 
