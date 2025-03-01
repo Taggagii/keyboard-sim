@@ -2,5 +2,5 @@
 
 echo "testing"
 cd keyboard-sim
-pwd
+python3 main.py
 
